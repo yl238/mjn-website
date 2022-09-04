@@ -1,24 +1,20 @@
 ---
 layout: page
-title: Text
-description: a project with a background image
+title: PhilologEg
+description: formerly AELalign
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
+This is the home page of PhilologEg (formerly AELalign), a tool and data formats for representing and exchanging electronic resources on texts in the Ancient Egyptian language.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## General documentation
+- M.-J. Nederhof. Alignment of resources on Egyptian texts based on XML. In Proceedings of the XIV Computer-aided Egyptology Round Table, Pisa, Italy, July 2002. [pdf]
+- M.-J. Nederhof. Egyptological language resources and interlinear representation. Presentation at IAE Computer Group Meeting 2006, Oxford, UK, August 2006. [pdf]
+- M.-J. Nederhof. Automatic alignment of hieroglyphs and transliteration. In N. Strudwick, editor, Information Technology and Egyptology in 2008, Proceedings of the meeting of the Computer Working Group of the International Association of Egyptologists, Vienna, July 2008. Gorgias Press. [pdf]
+- M.-J. Nederhof. Automatic Creation of Interlinear Text for Philological Purposes. Traitement Automatique des Langues, 50(2):237-255, 2009. [pdf]
+- M.-J. Nederhof. Flexible use of text annotations and distance learning. In S. Polis and J. Winand, editors, Texts, Languages & Information Technology in Egyptology, pp. 75-88. Presses Universitaires de Liège, 2013. [pdf]
+- M.-J. Nederhof. OCR of handwritten transcriptions of Ancient Egyptian hieroglyphic text. Work presented at Altertumswissenschaften in a Digital Age: Egyptology, Papyrology and Beyond, Leipzig, Germany, November 2015. [pdf]
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
